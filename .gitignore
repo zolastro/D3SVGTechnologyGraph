@@ -2,3 +2,7 @@
 bootstrap.json
 build/
 ext/
+/.idea/workspace.xml
+/.idea/vcs.xml
+/.idea/modules.xml
+/.idea/D3SVGTechnologyGraph.iml
